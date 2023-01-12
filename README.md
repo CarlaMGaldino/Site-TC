@@ -1,6 +1,8 @@
 # Site-TC
 
-## Site desenvolvido para demosntração, portfólio.
+## Site desenvolvido para portifólio e conhecimento dos meus trabalhos.
+
+###Link para o site em produção: https://tcdevelopers.epizy.com/
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png" width="100px">
